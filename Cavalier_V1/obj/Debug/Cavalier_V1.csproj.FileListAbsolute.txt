@@ -1,0 +1,178 @@
+C:\Users\Yasmine\Desktop\IUT\ihm 2\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe.config
+C:\Users\Yasmine\Desktop\IUT\ihm 2\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe
+C:\Users\Yasmine\Desktop\IUT\ihm 2\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.pdb
+C:\Users\Yasmine\Desktop\IUT\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csprojAssemblyReference.cache
+C:\Users\Yasmine\Desktop\IUT\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form1.resources
+C:\Users\Yasmine\Desktop\IUT\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Properties.Resources.resources
+C:\Users\Yasmine\Desktop\IUT\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.GenerateResource.cache
+C:\Users\Yasmine\Desktop\IUT\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.CoreCompileInputs.cache
+C:\Users\Yasmine\Desktop\IUT\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.exe
+C:\Users\Yasmine\Desktop\IUT\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.pdb
+C:\Users\Yasmine\Desktop\IUT\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form2.resources
+D:\OneDrive\IUT_INFORMATIQUE\PERIODE B\IHM\Projet\Cavalier_V1\bin\Debug\Image\Cavalier.png
+D:\OneDrive\IUT_INFORMATIQUE\PERIODE B\IHM\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe.config
+D:\OneDrive\IUT_INFORMATIQUE\PERIODE B\IHM\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe
+D:\OneDrive\IUT_INFORMATIQUE\PERIODE B\IHM\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.pdb
+D:\OneDrive\IUT_INFORMATIQUE\PERIODE B\IHM\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form1.resources
+D:\OneDrive\IUT_INFORMATIQUE\PERIODE B\IHM\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form2.resources
+D:\OneDrive\IUT_INFORMATIQUE\PERIODE B\IHM\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Properties.Resources.resources
+D:\OneDrive\IUT_INFORMATIQUE\PERIODE B\IHM\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.GenerateResource.cache
+D:\OneDrive\IUT_INFORMATIQUE\PERIODE B\IHM\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.CoreCompileInputs.cache
+D:\OneDrive\IUT_INFORMATIQUE\PERIODE B\IHM\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.exe
+D:\OneDrive\IUT_INFORMATIQUE\PERIODE B\IHM\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.pdb
+D:\OneDrive\IUT_INFORMATIQUE\PERIODE B\IHM\Projet\Cavalier_V1\bin\Debug\Image\Image_fond.jpg
+D:\OneDrive\IUT_INFORMATIQUE\PERIODE B\IHM\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csprojAssemblyReference.cache
+C:\Users\simon\Desktop\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form1.resources
+C:\Users\simon\Desktop\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form2.resources
+C:\Users\simon\Desktop\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form3.resources
+C:\Users\simon\Desktop\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form4.resources
+C:\Users\simon\Desktop\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Properties.Resources.resources
+C:\Users\simon\Desktop\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.GenerateResource.cache
+C:\Users\simon\Desktop\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\Projet\Cavalier_V1\bin\Debug\Image\Cavalier.png
+C:\Users\simon\Desktop\Projet\Cavalier_V1\bin\Debug\Image\Image_fond.jpg
+C:\Users\simon\Desktop\Projet\Cavalier_V1\bin\Debug\Resources\Image_fond - Copie.jpg
+C:\Users\simon\Desktop\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe.config
+C:\Users\simon\Desktop\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe
+C:\Users\simon\Desktop\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.pdb
+C:\Users\simon\Desktop\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.exe
+C:\Users\simon\Desktop\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.pdb
+C:\Users\simon\Desktop\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csprojAssemblyReference.cache
+C:\Users\Yasmine\Downloads\Projet\Projet\Cavalier_V1\bin\Debug\Image\Cavalier.png
+C:\Users\Yasmine\Downloads\Projet\Projet\Cavalier_V1\bin\Debug\Image\Image_fond.jpg
+C:\Users\Yasmine\Downloads\Projet\Projet\Cavalier_V1\bin\Debug\Resources\Image_fond - Copie.jpg
+C:\Users\Yasmine\Downloads\Projet\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe.config
+C:\Users\Yasmine\Downloads\Projet\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe
+C:\Users\Yasmine\Downloads\Projet\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.pdb
+C:\Users\Yasmine\Downloads\Projet\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csprojAssemblyReference.cache
+C:\Users\Yasmine\Downloads\Projet\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form1.resources
+C:\Users\Yasmine\Downloads\Projet\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form2.resources
+C:\Users\Yasmine\Downloads\Projet\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form3.resources
+C:\Users\Yasmine\Downloads\Projet\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form4.resources
+C:\Users\Yasmine\Downloads\Projet\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Properties.Resources.resources
+C:\Users\Yasmine\Downloads\Projet\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.GenerateResource.cache
+C:\Users\Yasmine\Downloads\Projet\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.CoreCompileInputs.cache
+C:\Users\Yasmine\Downloads\Projet\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.exe
+C:\Users\Yasmine\Downloads\Projet\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.pdb
+C:\Users\Yasmine\Desktop\IUT\ihm 2\Projet\Cavalier_V1\bin\Debug\Image\Cavalier.png
+C:\Users\Yasmine\Desktop\IUT\ihm 2\Projet\Cavalier_V1\bin\Debug\Image\Image_fond.jpg
+C:\Users\Yasmine\Desktop\IUT\ihm 2\Projet\Cavalier_V1\bin\Debug\Resources\Image_fond - Copie.jpg
+C:\Users\Yasmine\Desktop\IUT\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form3.resources
+C:\Users\Yasmine\Desktop\IUT\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form4.resources
+C:\Users\Yasmine\Desktop\IUT\S1\ihm 2\Projet\Cavalier_V1\bin\Debug\Image\Cavalier.png
+C:\Users\Yasmine\Desktop\IUT\S1\ihm 2\Projet\Cavalier_V1\bin\Debug\Image\Image_fond.jpg
+C:\Users\Yasmine\Desktop\IUT\S1\ihm 2\Projet\Cavalier_V1\bin\Debug\Resources\Image_fond - Copie.jpg
+C:\Users\Yasmine\Desktop\IUT\S1\ihm 2\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe.config
+C:\Users\Yasmine\Desktop\IUT\S1\ihm 2\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe
+C:\Users\Yasmine\Desktop\IUT\S1\ihm 2\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.pdb
+C:\Users\Yasmine\Desktop\IUT\S1\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csprojAssemblyReference.cache
+C:\Users\Yasmine\Desktop\IUT\S1\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form1.resources
+C:\Users\Yasmine\Desktop\IUT\S1\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form2.resources
+C:\Users\Yasmine\Desktop\IUT\S1\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form3.resources
+C:\Users\Yasmine\Desktop\IUT\S1\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form4.resources
+C:\Users\Yasmine\Desktop\IUT\S1\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Properties.Resources.resources
+C:\Users\Yasmine\Desktop\IUT\S1\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.GenerateResource.cache
+C:\Users\Yasmine\Desktop\IUT\S1\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.CoreCompileInputs.cache
+C:\Users\Yasmine\Desktop\IUT\S1\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.exe
+C:\Users\Yasmine\Desktop\IUT\S1\ihm 2\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.pdb
+C:\Users\simon\Downloads\Projet_4\Projet\Cavalier_V1\bin\Debug\Image\Cavalier.png
+C:\Users\simon\Downloads\Projet_4\Projet\Cavalier_V1\bin\Debug\Image\Image_fond.jpg
+C:\Users\simon\Downloads\Projet_4\Projet\Cavalier_V1\bin\Debug\Resources\Image_fond - Copie.jpg
+C:\Users\simon\Downloads\Projet_4\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe.config
+C:\Users\simon\Downloads\Projet_4\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe
+C:\Users\simon\Downloads\Projet_4\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.pdb
+C:\Users\simon\Downloads\Projet_4\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csprojAssemblyReference.cache
+C:\Users\simon\Downloads\Projet_4\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form1.resources
+C:\Users\simon\Downloads\Projet_4\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form2.resources
+C:\Users\simon\Downloads\Projet_4\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form3.resources
+C:\Users\simon\Downloads\Projet_4\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form4.resources
+C:\Users\simon\Downloads\Projet_4\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Properties.Resources.resources
+C:\Users\simon\Downloads\Projet_4\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.GenerateResource.cache
+C:\Users\simon\Downloads\Projet_4\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.CoreCompileInputs.cache
+C:\Users\simon\Downloads\Projet_4\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.exe
+C:\Users\simon\Downloads\Projet_4\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.pdb
+C:\Users\simon\Downloads\Projet_4.1\Projet\Cavalier_V1\bin\Debug\Image\Cavalier.png
+C:\Users\simon\Downloads\Projet_4.1\Projet\Cavalier_V1\bin\Debug\Image\Image_fond.jpg
+C:\Users\simon\Downloads\Projet_4.1\Projet\Cavalier_V1\bin\Debug\Resources\Image_fond - Copie.jpg
+C:\Users\simon\Downloads\Projet_4.1\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe.config
+C:\Users\simon\Downloads\Projet_4.1\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe
+C:\Users\simon\Downloads\Projet_4.1\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.pdb
+C:\Users\simon\Downloads\Projet_4.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csprojAssemblyReference.cache
+C:\Users\simon\Downloads\Projet_4.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form1.resources
+C:\Users\simon\Downloads\Projet_4.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form2.resources
+C:\Users\simon\Downloads\Projet_4.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form3.resources
+C:\Users\simon\Downloads\Projet_4.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form4.resources
+C:\Users\simon\Downloads\Projet_4.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Properties.Resources.resources
+C:\Users\simon\Downloads\Projet_4.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.GenerateResource.cache
+C:\Users\simon\Downloads\Projet_4.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.CoreCompileInputs.cache
+C:\Users\simon\Downloads\Projet_4.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.exe
+C:\Users\simon\Downloads\Projet_4.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.pdb
+C:\Users\simon\Downloads\Projet_4.1.1\Projet\Cavalier_V1\bin\Debug\Image\Image_fond.jpg
+C:\Users\simon\Downloads\Projet_4.1.1\Projet\Cavalier_V1\bin\Debug\Resources\Image_fond - Copie.jpg
+C:\Users\simon\Downloads\Projet_4.1.1\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe.config
+C:\Users\simon\Downloads\Projet_4.1.1\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe
+C:\Users\simon\Downloads\Projet_4.1.1\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.pdb
+C:\Users\simon\Downloads\Projet_4.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csprojAssemblyReference.cache
+C:\Users\simon\Downloads\Projet_4.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form1.resources
+C:\Users\simon\Downloads\Projet_4.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form2.resources
+C:\Users\simon\Downloads\Projet_4.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form3.resources
+C:\Users\simon\Downloads\Projet_4.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form4.resources
+C:\Users\simon\Downloads\Projet_4.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Properties.Resources.resources
+C:\Users\simon\Downloads\Projet_4.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.GenerateResource.cache
+C:\Users\simon\Downloads\Projet_4.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.CoreCompileInputs.cache
+C:\Users\simon\Downloads\Projet_4.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.exe
+C:\Users\simon\Downloads\Projet_4.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.pdb
+C:\Users\simon\Downloads\Projet_4.1.1\Projet\Cavalier_V1\bin\Debug\Image\Cavalier.png
+C:\Users\simon\Downloads\Projet_4.1.1\Projet\Cavalier_V1\bin\Debug\Image\chess_black_knight.png
+C:\Users\ynait\OneDrive\Bureau\DUT\Projet_4.1.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csprojAssemblyReference.cache
+C:\Users\ynait\OneDrive\Bureau\DUT\Projet_4.1.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form1.resources
+C:\Users\ynait\OneDrive\Bureau\DUT\Projet_4.1.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form2.resources
+C:\Users\ynait\OneDrive\Bureau\DUT\Projet_4.1.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form3.resources
+C:\Users\ynait\OneDrive\Bureau\DUT\Projet_4.1.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form4.resources
+C:\Users\ynait\OneDrive\Bureau\DUT\Projet_4.1.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Properties.Resources.resources
+C:\Users\ynait\OneDrive\Bureau\DUT\Projet_4.1.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.GenerateResource.cache
+C:\Users\ynait\OneDrive\Bureau\DUT\Projet_4.1.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.CoreCompileInputs.cache
+C:\Users\ynait\OneDrive\Bureau\DUT\Projet_4.1.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.exe
+C:\Users\ynait\OneDrive\Bureau\DUT\Projet_4.1.1.1\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.pdb
+C:\Users\ynait\OneDrive\Bureau\DUT\Projet_4.1.1.1\Projet\Cavalier_V1\bin\Debug\Image\Image_fond.jpg
+C:\Users\ynait\OneDrive\Bureau\DUT\Projet_4.1.1.1\Projet\Cavalier_V1\bin\Debug\Resources\Image_fond - Copie.jpg
+C:\Users\ynait\OneDrive\Bureau\DUT\Projet_4.1.1.1\Projet\Cavalier_V1\bin\Debug\Image\Cavalier.png
+C:\Users\ynait\OneDrive\Bureau\DUT\Projet_4.1.1.1\Projet\Cavalier_V1\bin\Debug\Image\chess_black_knight.png
+C:\Users\ynait\OneDrive\Bureau\DUT\Projet_4.1.1.1\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe.config
+C:\Users\ynait\OneDrive\Bureau\DUT\Projet_4.1.1.1\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe
+C:\Users\ynait\OneDrive\Bureau\DUT\Projet_4.1.1.1\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.pdb
+C:\Users\simon\Downloads\Projet_2(1)\Projet\Cavalier_V1\bin\Debug\Image\Image_fond.jpg
+C:\Users\simon\Downloads\Projet_2(1)\Projet\Cavalier_V1\bin\Debug\Resources\Image_fond - Copie.jpg
+C:\Users\simon\Downloads\Projet_2(1)\Projet\Cavalier_V1\bin\Debug\Image\Cavalier.png
+C:\Users\simon\Downloads\Projet_2(1)\Projet\Cavalier_V1\bin\Debug\Image\chess_black_knight.png
+C:\Users\simon\Downloads\Projet_2(1)\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe.config
+C:\Users\simon\Downloads\Projet_2(1)\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe
+C:\Users\simon\Downloads\Projet_2(1)\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.pdb
+C:\Users\simon\Downloads\Projet_2(1)\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csprojAssemblyReference.cache
+C:\Users\simon\Downloads\Projet_2(1)\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form1.resources
+C:\Users\simon\Downloads\Projet_2(1)\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form2.resources
+C:\Users\simon\Downloads\Projet_2(1)\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form3.resources
+C:\Users\simon\Downloads\Projet_2(1)\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form4.resources
+C:\Users\simon\Downloads\Projet_2(1)\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Properties.Resources.resources
+C:\Users\simon\Downloads\Projet_2(1)\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.GenerateResource.cache
+C:\Users\simon\Downloads\Projet_2(1)\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.CoreCompileInputs.cache
+C:\Users\simon\Downloads\Projet_2(1)\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.exe
+C:\Users\simon\Downloads\Projet_2(1)\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.pdb
+C:\Users\simon\Downloads\Projet_2(1)\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Aide.resources
+C:\Users\simon\Downloads\Projet IHM_ Yasmine Nait-Kaci Simon Timmerman\Projet\Cavalier_V1\bin\Debug\Image\Image_fond.jpg
+C:\Users\simon\Downloads\Projet IHM_ Yasmine Nait-Kaci Simon Timmerman\Projet\Cavalier_V1\bin\Debug\Resources\Image_fond - Copie.jpg
+C:\Users\simon\Downloads\Projet IHM_ Yasmine Nait-Kaci Simon Timmerman\Projet\Cavalier_V1\bin\Debug\Image\Cavalier.png
+C:\Users\simon\Downloads\Projet IHM_ Yasmine Nait-Kaci Simon Timmerman\Projet\Cavalier_V1\bin\Debug\Image\chess_black_knight.png
+C:\Users\simon\Downloads\Projet IHM_ Yasmine Nait-Kaci Simon Timmerman\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe.config
+C:\Users\simon\Downloads\Projet IHM_ Yasmine Nait-Kaci Simon Timmerman\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.exe
+C:\Users\simon\Downloads\Projet IHM_ Yasmine Nait-Kaci Simon Timmerman\Projet\Cavalier_V1\bin\Debug\Cavalier_V1.pdb
+C:\Users\simon\Downloads\Projet IHM_ Yasmine Nait-Kaci Simon Timmerman\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form1.resources
+C:\Users\simon\Downloads\Projet IHM_ Yasmine Nait-Kaci Simon Timmerman\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form2.resources
+C:\Users\simon\Downloads\Projet IHM_ Yasmine Nait-Kaci Simon Timmerman\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form3.resources
+C:\Users\simon\Downloads\Projet IHM_ Yasmine Nait-Kaci Simon Timmerman\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Form4.resources
+C:\Users\simon\Downloads\Projet IHM_ Yasmine Nait-Kaci Simon Timmerman\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Aide.resources
+C:\Users\simon\Downloads\Projet IHM_ Yasmine Nait-Kaci Simon Timmerman\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.Properties.Resources.resources
+C:\Users\simon\Downloads\Projet IHM_ Yasmine Nait-Kaci Simon Timmerman\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.GenerateResource.cache
+C:\Users\simon\Downloads\Projet IHM_ Yasmine Nait-Kaci Simon Timmerman\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.csproj.CoreCompileInputs.cache
+C:\Users\simon\Downloads\Projet IHM_ Yasmine Nait-Kaci Simon Timmerman\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.exe
+C:\Users\simon\Downloads\Projet IHM_ Yasmine Nait-Kaci Simon Timmerman\Projet\Cavalier_V1\obj\Debug\Cavalier_V1.pdb
